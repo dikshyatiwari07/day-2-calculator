@@ -13,16 +13,22 @@ This is a simple calculator built using Python.
 ## ▶️ How to Run
 1. Open terminal
 2. Navigate to the project folder
-3. Run the command:
+3. Run:
    python day2_calculator.py
 
 ## 🧠 What I Learned
-- Using loops (while)
-- Taking user input
-- Conditional statements (if-elif-else)
-- Error handling in Python
+- How to use loops (while)
+- Taking user input in Python
+- Using if-elif-else conditions
+- Handling errors using try-except
+- Writing cleaner and structured code
 
 ## 📂 Project Structure
 day-2-calculator/
  ├── day2_calculator.py
  └── README.md
+
+## 🚀 Future Improvements
+- Add more operations (%, power)
+- Improve user interface
+- Convert into GUI app
