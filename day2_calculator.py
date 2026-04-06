@@ -28,7 +28,7 @@ while True:
 
         again = input("\nDo you want to calculate again? (yes/no): ").lower()
         if again != "yes":
-            print("Goodbye! 👋")
+            print("Goodbye!")
             break
 
     except ValueError:
